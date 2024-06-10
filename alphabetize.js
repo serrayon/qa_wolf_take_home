@@ -26,7 +26,7 @@ async function saveHackerNewsArticles() {
     articles.sort((a, b) => a.localeCompare(b));
 
     // Log the sorted articles
-    console.log("Sorted Articles:");
+    console.log("Articles alphabetized:");
     articles.forEach((title, index) => console.log(`${index + 1}. ${title}`));
 
     // Wait for a long timeout to keep the browser open until manually closed
