@@ -35,7 +35,7 @@ async function saveHackerNewsArticles() {
     console.error("An error occurred:", error);
   } finally {
     // Close the browser
-
+    // await browser.close();
   }
 }
 
