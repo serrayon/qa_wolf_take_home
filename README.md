@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐺 QA Wolf Take Home Assignment
 
 Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.notion.so/qawolf/QA-Wolf-QA-Engineer-Remote-156203a1e476459ea5e6ffca972d0efe) role! We appreciate your interest and look forward to seeing what you come up with.
@@ -43,3 +44,7 @@ This means whether we hire you is based on how you do during our interview proce
 ### How can I help my application stand out?
 
 We've found that our best hires have been the most enthusiastic throughout our process. If you are very excited about working here, please feel free to go above and beyond on this assignment.
+=======
+# qa_wolf_take_home
+script checks to see if articles are in order from newest to oldest 
+>>>>>>> origin/main
