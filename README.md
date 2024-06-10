@@ -45,6 +45,4 @@ This means whether we hire you is based on how you do during our interview proce
 
 We've found that our best hires have been the most enthusiastic throughout our process. If you are very excited about working here, please feel free to go above and beyond on this assignment.
 =======
-# qa_wolf_take_home
-script checks to see if articles are in order from newest to oldest 
->>>>>>> origin/main
+
