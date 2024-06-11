@@ -1,3 +1,4 @@
+//Navigation test verifies that the link takes you to the correct page
 const { chromium } = require('playwright');
 
 (async () => {

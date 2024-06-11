@@ -1,4 +1,4 @@
-// EDIT THIS FILE TO COMPLETE ASSIGNMENT QUESTION 1
+// I did this just to see if I could return a sorted list of articles 
 const { chromium } = require("playwright");
 
 async function saveHackerNewsArticles() {

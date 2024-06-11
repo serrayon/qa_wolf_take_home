@@ -1,3 +1,4 @@
+//Verifies that the search function returns relevant results 
 const { chromium } = require('playwright');
 const fs = require('fs');
 
