@@ -59,7 +59,7 @@ async function saveHackerNewsArticles() {
     } catch (error) {
         console.error(error);
     } finally {
-        await browser.close();
+        //await browser.close();
     }
 }
 
